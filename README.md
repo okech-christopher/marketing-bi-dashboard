@@ -5,6 +5,9 @@
 [![SQL](https://img.shields.io/badge/SQL-Relational_Data-4479A1?style=flat-square&logo=mysql&logoColor=white)](dax_measures.md)
 [![Interactive UI](https://img.shields.io/badge/Visualization-Chart.js_&_Tailwind-38B2AC?style=flat-square)](dashboard_preview.html)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg?style=flat-square)](LICENSE)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-GitHub_Pages-0D1117?style=flat-square&logo=github)](https://okech-christopher.github.io/marketing-bi-dashboard/dashboard_preview.html)
+
+> **[→ Open Interactive Dashboard](https://okech-christopher.github.io/marketing-bi-dashboard/dashboard_preview.html)**
 
 An end-to-end data analytics project analyzing 180 days of multi-channel digital ad spend and 2,500 customer transactions across Kenyan consumer hubs.
 
@@ -100,5 +103,6 @@ marketing-bi-dashboard/
 
 ## How to Explore
 
-* **Interactive Browser Preview:** Double-click `dashboard_preview.html` to explore the interactive dashboard locally in your browser.
+* **Live Interactive Demo:** [https://okech-christopher.github.io/marketing-bi-dashboard/dashboard_preview.html](https://okech-christopher.github.io/marketing-bi-dashboard/dashboard_preview.html)
+* **Local Preview:** Clone the repo and double-click `dashboard_preview.html` to explore the interactive dashboard in your browser.
 * **Data & Scripts:** Run `python generate_bi_data.py` to inspect the ETL data generation and schema relationships.
