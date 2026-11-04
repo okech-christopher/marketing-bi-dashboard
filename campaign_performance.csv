@@ -1,0 +1,549 @@
+Date,Campaign_Name,Platform,Target_Audience,Spend_KES,Impressions,Clicks,Conversions,Revenue_KES
+2026-01-01,Brand Awareness Jan,TikTok,Youth Demographic (18-24),3328,129792,4985,284,14365
+2026-01-01,Mega Sales Q1,Meta (Instagram),Retargeting,2712,116616,3083,127,9864
+2026-01-01,Easter Promo Flash,Meta (Facebook),Broad Interest,6139,270116,5005,249,27624
+2026-01-01,Customer Reactivation Flow,Email Sequence,At-Risk Churn,858,11873,1159,119,9314
+2026-01-02,Google Search High Intent,Google Ads,In-Market Shoppers,5287,121601,4823,566,22953
+2026-01-02,New Customer Welcome Series,Email Sequence,New Subscribers,394,11224,984,124,3791
+2026-01-03,Mid-Year Clearance Sale,Meta (Instagram),Engaged Followers,3022,111814,2188,119,13469
+2026-01-03,Google Shopping Performance Max,Google Ads,E-Commerce Intent,5462,114702,6439,404,22228
+2026-01-04,Brand Awareness Jan,TikTok,Youth Demographic (18-24),4613,198359,6215,393,14191
+2026-01-04,Loyalty Email Blast,Email Sequence,Past 90-Day Buyers,663,8432,1126,127,6697
+2026-01-04,Customer Reactivation Flow,Email Sequence,At-Risk Churn,373,14980,1959,192,2785
+2026-01-05,New Customer Welcome Series,Email Sequence,New Subscribers,632,17588,2498,176,3913
+2026-01-05,Easter Promo Flash,Meta (Facebook),Broad Interest,4584,169608,3961,200,23313
+2026-01-05,Loyalty Email Blast,Email Sequence,Past 90-Day Buyers,622,8483,1123,96,7145
+2026-01-06,Google Search High Intent,Google Ads,In-Market Shoppers,4520,103960,5968,511,22413
+2026-01-06,Easter Promo Flash,Meta (Facebook),Broad Interest,4965,158880,6028,282,20788
+2026-01-06,Customer Reactivation Flow,Email Sequence,At-Risk Churn,348,6796,626,40,3508
+2026-01-07,Brand Awareness Jan,TikTok,Youth Demographic (18-24),5334,272034,7150,372,23480
+2026-01-07,New Customer Welcome Series,Email Sequence,New Subscribers,996,16808,1498,194,10463
+2026-01-07,Google Shopping Performance Max,Google Ads,E-Commerce Intent,5286,95148,4167,289,18543
+2026-01-07,Easter Promo Flash,Meta (Facebook),Broad Interest,7915,261195,9778,763,33364
+2026-01-08,Easter Promo Flash,Meta (Facebook),Broad Interest,6988,216628,4561,356,29899
+2026-01-08,Google Shopping Performance Max,Google Ads,E-Commerce Intent,6844,102660,5437,485,25868
+2026-01-09,Easter Promo Flash,Meta (Facebook),Broad Interest,3973,170839,6310,279,16575
+2026-01-09,Loyalty Email Blast,Email Sequence,Past 90-Day Buyers,370,17461,2141,131,3684
+2026-01-09,Mega Sales Q1,Meta (Instagram),Retargeting,6503,195090,4545,380,26312
+2026-01-10,Google Shopping Performance Max,Google Ads,E-Commerce Intent,5053,136431,8848,875,23219
+2026-01-10,Loyalty Email Blast,Email Sequence,Past 90-Day Buyers,829,12397,1111,78,6655
+2026-01-11,Google Shopping Performance Max,Google Ads,E-Commerce Intent,3081,49296,2063,235,17404
+2026-01-11,Loyalty Email Blast,Email Sequence,Past 90-Day Buyers,372,13423,1329,146,2710
+2026-01-11,Customer Reactivation Flow,Email Sequence,At-Risk Churn,435,16851,2609,264,3843
+2026-01-11,Mega Sales Q1,Meta (Instagram),Retargeting,5874,223212,4867,218,23860
+2026-01-12,New Customer Welcome Series,Email Sequence,New Subscribers,989,15706,2493,146,8323
+2026-01-12,Mid-Year Clearance Sale,Meta (Instagram),Engaged Followers,4779,133812,3074,152,19580
+2026-01-12,Mega Sales Q1,Meta (Instagram),Retargeting,5456,163680,3858,202,27533
+2026-01-13,Google Shopping Performance Max,Google Ads,E-Commerce Intent,6928,103920,6658,769,38947
+2026-01-13,Brand Awareness Jan,TikTok,Youth Demographic (18-24),2862,137376,4415,170,9964
+2026-01-13,Mega Sales Q1,Meta (Instagram),Retargeting,2480,74400,1903,169,9251
+2026-01-14,Easter Promo Flash,Meta (Facebook),Broad Interest,3268,101308,2424,214,14243
+2026-01-14,New Customer Welcome Series,Email Sequence,New Subscribers,855,5998,838,46,8126
+2026-01-14,Mid-Year Clearance Sale,Meta (Instagram),Engaged Followers,6119,250879,5305,467,20561
+2026-01-15,Brand Awareness Jan,TikTok,Youth Demographic (18-24),3426,161022,3703,242,11026
+2026-01-15,Customer Reactivation Flow,Email Sequence,At-Risk Churn,908,5651,732,64,8627
+2026-01-16,TikTok Influencer Collab,TikTok,Creative Video Briefs,4073,171066,4557,160,15873
+2026-01-16,Easter Promo Flash,Meta (Facebook),Broad Interest,5745,201075,7355,638,18491
+2026-01-16,Loyalty Email Blast,Email Sequence,Past 90-Day Buyers,936,14224,2271,128,6813
+2026-01-16,Customer Reactivation Flow,Email Sequence,At-Risk Churn,571,7170,1108,143,6438
+2026-01-17,Easter Promo Flash,Meta (Facebook),Broad Interest,6450,219300,6630,592,29076
+2026-01-17,Google Search High Intent,Google Ads,In-Market Shoppers,2564,61536,3873,256,14602
+2026-01-17,Mid-Year Clearance Sale,Meta (Instagram),Engaged Followers,4166,116648,4175,321,14626
+2026-01-18,Customer Reactivation Flow,Email Sequence,At-Risk Churn,508,16263,2126,156,4537
+2026-01-18,Loyalty Email Blast,Email Sequence,Past 90-Day Buyers,352,6512,851,106,2205
+2026-01-18,TikTok Influencer Collab,TikTok,Creative Video Briefs,4232,249688,5810,402,13012
+2026-01-19,Google Shopping Performance Max,Google Ads,E-Commerce Intent,3416,58072,3678,373,13228
+2026-01-19,New Customer Welcome Series,Email Sequence,New Subscribers,336,11049,1398,88,2272
+2026-01-19,Mega Sales Q1,Meta (Instagram),Retargeting,4525,162900,5861,467,22269
+2026-01-20,Loyalty Email Blast,Email Sequence,Past 90-Day Buyers,662,17781,2218,285,7840
+2026-01-20,Customer Reactivation Flow,Email Sequence,At-Risk Churn,458,8878,1324,182,4976
+2026-01-20,Brand Awareness Jan,TikTok,Youth Demographic (18-24),4877,170695,4179,279,20142
+2026-01-21,Loyalty Email Blast,Email Sequence,Past 90-Day Buyers,410,11267,1687,214,3007
+2026-01-21,Easter Promo Flash,Meta (Facebook),Broad Interest,5770,207720,5006,399,21090
+2026-01-21,Google Search High Intent,Google Ads,In-Market Shoppers,2693,56553,2655,203,9892
+2026-01-22,TikTok Influencer Collab,TikTok,Creative Video Briefs,5892,265140,11528,399,26217
+2026-01-22,Google Shopping Performance Max,Google Ads,E-Commerce Intent,3962,91126,3293,315,17291
+2026-01-22,New Customer Welcome Series,Email Sequence,New Subscribers,621,12149,1561,149,5161
+2026-01-23,Loyalty Email Blast,Email Sequence,Past 90-Day Buyers,746,5027,611,74,7550
+2026-01-23,Easter Promo Flash,Meta (Facebook),Broad Interest,7493,232283,5873,255,33931
+2026-01-23,Mega Sales Q1,Meta (Instagram),Retargeting,4704,206976,5025,414,21824
+2026-01-23,TikTok Influencer Collab,TikTok,Creative Video Briefs,3960,201960,5600,259,13796
+2026-01-24,Google Shopping Performance Max,Google Ads,E-Commerce Intent,5944,160488,8878,1013,29950
+2026-01-24,Google Search High Intent,Google Ads,In-Market Shoppers,4965,134055,6895,413,20938
+2026-01-24,Loyalty Email Blast,Email Sequence,Past 90-Day Buyers,740,17873,2259,246,6504
+2026-01-25,Loyalty Email Blast,Email Sequence,Past 90-Day Buyers,473,15794,1370,132,4634
+2026-01-25,Google Shopping Performance Max,Google Ads,E-Commerce Intent,5245,89165,5310,557,27179
+2026-01-25,Mid-Year Clearance Sale,Meta (Instagram),Engaged Followers,3840,119040,2493,105,19844
+2026-01-26,Brand Awareness Jan,TikTok,Youth Demographic (18-24),3092,176244,6593,328,9940
+2026-01-26,Mid-Year Clearance Sale,Meta (Instagram),Engaged Followers,7374,184350,6609,548,36655
+2026-01-26,New Customer Welcome Series,Email Sequence,New Subscribers,735,8585,807,109,6694
+2026-01-26,TikTok Influencer Collab,TikTok,Creative Video Briefs,1911,99372,2606,166,6833
+2026-01-27,Google Shopping Performance Max,Google Ads,E-Commerce Intent,6125,171500,10275,954,35175
+2026-01-27,Customer Reactivation Flow,Email Sequence,At-Risk Churn,786,12373,1246,90,7723
+2026-01-27,TikTok Influencer Collab,TikTok,Creative Video Briefs,5770,288500,10290,421,16916
+2026-01-28,Loyalty Email Blast,Email Sequence,Past 90-Day Buyers,627,13849,1197,76,5202
+2026-01-28,Easter Promo Flash,Meta (Facebook),Broad Interest,3251,100781,1943,117,13931
+2026-01-28,TikTok Influencer Collab,TikTok,Creative Video Briefs,4906,176616,4445,208,21283
+2026-01-29,Mega Sales Q1,Meta (Instagram),Retargeting,4881,165954,5488,453,24926
+2026-01-29,New Customer Welcome Series,Email Sequence,New Subscribers,729,13818,1931,191,7012
+2026-01-29,Mid-Year Clearance Sale,Meta (Instagram),Engaged Followers,3806,152240,3408,210,12400
+2026-01-29,Customer Reactivation Flow,Email Sequence,At-Risk Churn,644,15958,2143,185,4501
+2026-01-30,Google Search High Intent,Google Ads,In-Market Shoppers,5727,85905,3223,276,32455
+2026-01-30,Google Shopping Performance Max,Google Ads,E-Commerce Intent,3988,63808,2731,217,18491
+2026-01-30,Mega Sales Q1,Meta (Instagram),Retargeting,4764,176268,4153,363,19261
+2026-01-31,Mid-Year Clearance Sale,Meta (Instagram),Engaged Followers,6418,166868,6340,364,28882
+2026-01-31,Mega Sales Q1,Meta (Instagram),Retargeting,7339,190814,6313,552,26411
+2026-02-01,Customer Reactivation Flow,Email Sequence,At-Risk Churn,544,7068,833,50,6357
+2026-02-01,Google Search High Intent,Google Ads,In-Market Shoppers,6309,145107,8417,589,31659
+2026-02-02,Brand Awareness Jan,TikTok,Youth Demographic (18-24),1710,75240,2587,171,5879
+2026-02-02,Google Search High Intent,Google Ads,In-Market Shoppers,4124,70108,3699,406,16937
+2026-02-02,Easter Promo Flash,Meta (Facebook),Broad Interest,7711,262174,9177,642,26542
+2026-02-02,Mega Sales Q1,Meta (Instagram),Retargeting,6636,172536,4303,264,26153
+2026-02-03,TikTok Influencer Collab,TikTok,Creative Video Briefs,5515,209570,6462,287,23800
+2026-02-03,Mega Sales Q1,Meta (Instagram),Retargeting,5766,167214,4466,342,29585
+2026-02-03,New Customer Welcome Series,Email Sequence,New Subscribers,576,15091,2183,214,5126
+2026-02-03,Mid-Year Clearance Sale,Meta (Instagram),Engaged Followers,5568,239424,5594,461,27068
+2026-02-04,Easter Promo Flash,Meta (Facebook),Broad Interest,3997,155883,4582,336,15479
+2026-02-04,Mid-Year Clearance Sale,Meta (Instagram),Engaged Followers,6049,211715,4580,231,29008
+2026-02-05,Easter Promo Flash,Meta (Facebook),Broad Interest,6232,193192,3808,289,26032
+2026-02-05,Customer Reactivation Flow,Email Sequence,At-Risk Churn,546,16314,1926,219,4744
+2026-02-05,Mega Sales Q1,Meta (Instagram),Retargeting,2141,57807,1380,83,7893
+2026-02-06,Customer Reactivation Flow,Email Sequence,At-Risk Churn,843,10632,1212,141,6731
+2026-02-06,TikTok Influencer Collab,TikTok,Creative Video Briefs,5217,224331,6206,243,21004
+2026-02-06,Mid-Year Clearance Sale,Meta (Instagram),Engaged Followers,4584,128352,4217,369,20996
+2026-02-06,Easter Promo Flash,Meta (Facebook),Broad Interest,3569,110639,3625,195,15629
+2026-02-07,Customer Reactivation Flow,Email Sequence,At-Risk Churn,498,9853,967,63,3030
+2026-02-07,Easter Promo Flash,Meta (Facebook),Broad Interest,6375,184875,4342,385,27455
+2026-02-07,Brand Awareness Jan,TikTok,Youth Demographic (18-24),2534,139370,5813,288,10854
+2026-02-07,New Customer Welcome Series,Email Sequence,New Subscribers,887,9658,1135,101,6303
+2026-02-08,Easter Promo Flash,Meta (Facebook),Broad Interest,2934,79218,2060,90,13082
+2026-02-08,Mid-Year Clearance Sale,Meta (Instagram),Engaged Followers,2439,70731,1484,101,9286
+2026-02-09,Brand Awareness Jan,TikTok,Youth Demographic (18-24),4909,265086,9252,506,20218
+2026-02-09,Google Shopping Performance Max,Google Ads,E-Commerce Intent,5616,162864,10139,789,27918
+2026-02-10,Easter Promo Flash,Meta (Facebook),Broad Interest,3702,166590,3701,270,13009
+2026-02-10,Mega Sales Q1,Meta (Instagram),Retargeting,3423,143766,2803,112,14037
+2026-02-10,Brand Awareness Jan,TikTok,Youth Demographic (18-24),5349,235356,4899,203,17548
+2026-02-11,Brand Awareness Jan,TikTok,Youth Demographic (18-24),3120,149760,3424,133,9526
+2026-02-11,Loyalty Email Blast,Email Sequence,Past 90-Day Buyers,572,7330,628,40,4487
+2026-02-11,Easter Promo Flash,Meta (Facebook),Broad Interest,6662,226508,6066,384,25370
+2026-02-12,Easter Promo Flash,Meta (Facebook),Broad Interest,5586,150822,4518,381,26081
+2026-02-12,Google Shopping Performance Max,Google Ads,E-Commerce Intent,4551,68265,2576,303,25439
+2026-02-12,Mid-Year Clearance Sale,Meta (Instagram),Engaged Followers,6712,288616,10683,961,30503
+2026-02-13,Customer Reactivation Flow,Email Sequence,At-Risk Churn,781,13502,1783,236,5536
+2026-02-13,Mega Sales Q1,Meta (Instagram),Retargeting,6795,258210,7925,511,22983
+2026-02-13,Google Search High Intent,Google Ads,In-Market Shoppers,5350,149800,6740,675,30197
+2026-02-14,New Customer Welcome Series,Email Sequence,New Subscribers,978,11561,1677,166,8536
+2026-02-14,Mid-Year Clearance Sale,Meta (Instagram),Engaged Followers,4576,151008,3694,326,18342
+2026-02-14,Easter Promo Flash,Meta (Facebook),Broad Interest,6215,155375,4840,324,25024
+2026-02-15,Google Shopping Performance Max,Google Ads,E-Commerce Intent,6583,190907,11034,796,32079
+2026-02-15,TikTok Influencer Collab,TikTok,Creative Video Briefs,3859,189091,7945,392,10994
+2026-02-16,Customer Reactivation Flow,Email Sequence,At-Risk Churn,864,5224,648,37,10327
+2026-02-16,Loyalty Email Blast,Email Sequence,Past 90-Day Buyers,416,12560,1956,211,2880
+2026-02-16,Google Search High Intent,Google Ads,In-Market Shoppers,4890,112470,5338,474,22887
+2026-02-16,Mid-Year Clearance Sale,Meta (Instagram),Engaged Followers,5741,241122,5037,249,25253
+2026-02-17,Google Search High Intent,Google Ads,In-Market Shoppers,5899,147475,9294,840,32747
+2026-02-17,Brand Awareness Jan,TikTok,Youth Demographic (18-24),3817,221386,6080,325,17169
+2026-02-17,Easter Promo Flash,Meta (Facebook),Broad Interest,6011,174319,4694,301,23231
+2026-02-17,New Customer Welcome Series,Email Sequence,New Subscribers,856,11180,1301,102,6104
+2026-02-18,Loyalty Email Blast,Email Sequence,Past 90-Day Buyers,720,5715,602,55,8266
+2026-02-18,New Customer Welcome Series,Email Sequence,New Subscribers,690,11325,1801,218,6839
+2026-02-18,Customer Reactivation Flow,Email Sequence,At-Risk Churn,455,13115,2061,126,5365
+2026-02-18,Google Shopping Performance Max,Google Ads,E-Commerce Intent,5219,93942,5751,496,25128
+2026-02-19,Mega Sales Q1,Meta (Instagram),Retargeting,7363,213527,4163,329,27464
+2026-02-19,Google Search High Intent,Google Ads,In-Market Shoppers,5756,97852,5925,658,32511
+2026-02-19,New Customer Welcome Series,Email Sequence,New Subscribers,689,10188,1325,172,6151
+2026-02-20,Mega Sales Q1,Meta (Instagram),Retargeting,7606,258604,9813,758,30940
+2026-02-20,Brand Awareness Jan,TikTok,Youth Demographic (18-24),2306,136054,4876,316,8196
+2026-02-20,Loyalty Email Blast,Email Sequence,Past 90-Day Buyers,606,5474,458,55,4702
+2026-02-20,TikTok Influencer Collab,TikTok,Creative Video Briefs,4570,219360,5185,265,17192
+2026-02-21,Google Search High Intent,Google Ads,In-Market Shoppers,3146,84942,4552,338,18190
+2026-02-21,Customer Reactivation Flow,Email Sequence,At-Risk Churn,446,8804,1029,74,3359
+2026-02-22,Mid-Year Clearance Sale,Meta (Instagram),Engaged Followers,7550,317100,6709,416,29378
+2026-02-22,Easter Promo Flash,Meta (Facebook),Broad Interest,6813,231642,7129,436,25209
+2026-02-23,Loyalty Email Blast,Email Sequence,Past 90-Day Buyers,409,8886,981,80,3180
+2026-02-23,New Customer Welcome Series,Email Sequence,New Subscribers,602,5359,847,92,4603
+2026-02-23,Mid-Year Clearance Sale,Meta (Instagram),Engaged Followers,6636,172536,6247,482,32288
+2026-02-24,Loyalty Email Blast,Email Sequence,Past 90-Day Buyers,951,8115,1052,116,9819
+2026-02-24,TikTok Influencer Collab,TikTok,Creative Video Briefs,2620,144100,3232,178,7511
+2026-02-24,Customer Reactivation Flow,Email Sequence,At-Risk Churn,751,5546,700,81,4912
+2026-02-25,TikTok Influencer Collab,TikTok,Creative Video Briefs,3144,122616,4863,316,10758
+2026-02-25,New Customer Welcome Series,Email Sequence,New Subscribers,813,9465,1386,101,8900
+2026-02-25,Google Search High Intent,Google Ads,In-Market Shoppers,6447,154728,8880,713,24420
+2026-02-26,Google Search High Intent,Google Ads,In-Market Shoppers,5755,149630,5642,472,23947
+2026-02-26,Loyalty Email Blast,Email Sequence,Past 90-Day Buyers,426,12451,1363,160,3226
+2026-02-27,TikTok Influencer Collab,TikTok,Creative Video Briefs,5362,187670,6660,451,18003
+2026-02-27,Brand Awareness Jan,TikTok,Youth Demographic (18-24),3313,182215,3932,247,14398
+2026-02-27,Loyalty Email Blast,Email Sequence,Past 90-Day Buyers,609,15637,1761,110,7111
+2026-02-28,Mid-Year Clearance Sale,Meta (Instagram),Engaged Followers,3923,164766,3412,213,17814
+2026-02-28,Brand Awareness Jan,TikTok,Youth Demographic (18-24),5925,284400,9863,582,25508
+2026-02-28,Google Shopping Performance Max,Google Ads,E-Commerce Intent,3311,99330,5311,617,13904
+2026-03-01,TikTok Influencer Collab,TikTok,Creative Video Briefs,3434,157964,3551,203,12793
+2026-03-01,Loyalty Email Blast,Email Sequence,Past 90-Day Buyers,960,10876,922,68,11336
+2026-03-01,Mid-Year Clearance Sale,Meta (Instagram),Engaged Followers,5725,154575,4831,348,25157
+2026-03-01,Google Shopping Performance Max,Google Ads,E-Commerce Intent,2674,42784,2507,187,10200
+2026-03-02,Loyalty Email Blast,Email Sequence,Past 90-Day Buyers,521,8817,937,59,5941
+2026-03-02,Brand Awareness Jan,TikTok,Youth Demographic (18-24),1523,65489,2715,97,4600
+2026-03-02,Customer Reactivation Flow,Email Sequence,At-Risk Churn,556,7858,697,89,3775
+2026-03-02,Easter Promo Flash,Meta (Facebook),Broad Interest,4934,157888,4701,191,18407
+2026-03-03,New Customer Welcome Series,Email Sequence,New Subscribers,416,17216,1464,132,3399
+2026-03-03,Google Shopping Performance Max,Google Ads,E-Commerce Intent,3393,98397,4931,575,12243
+2026-03-04,Google Shopping Performance Max,Google Ads,E-Commerce Intent,2755,44080,2863,317,12578
+2026-03-04,Easter Promo Flash,Meta (Facebook),Broad Interest,2884,115360,3720,231,14415
+2026-03-04,Mid-Year Clearance Sale,Meta (Instagram),Engaged Followers,4638,204072,4278,198,20632
+2026-03-04,TikTok Influencer Collab,TikTok,Creative Video Briefs,5992,341544,9607,670,22182
+2026-03-05,Google Shopping Performance Max,Google Ads,E-Commerce Intent,3437,72177,3457,391,15585
+2026-03-05,New Customer Welcome Series,Email Sequence,New Subscribers,764,11532,1306,76,6540
+2026-03-05,Brand Awareness Jan,TikTok,Youth Demographic (18-24),3588,165048,7235,415,12939
+2026-03-06,Brand Awareness Jan,TikTok,Youth Demographic (18-24),5037,191406,7391,331,15217
+2026-03-06,Customer Reactivation Flow,Email Sequence,At-Risk Churn,361,14608,2286,229,3617
+2026-03-07,TikTok Influencer Collab,TikTok,Creative Video Briefs,3856,208224,5790,197,14122
+2026-03-07,New Customer Welcome Series,Email Sequence,New Subscribers,458,15759,1868,235,3710
+2026-03-07,Mega Sales Q1,Meta (Instagram),Retargeting,6556,236016,4790,258,23944
+2026-03-08,Google Shopping Performance Max,Google Ads,E-Commerce Intent,4690,70350,2843,290,20037
+2026-03-08,Customer Reactivation Flow,Email Sequence,At-Risk Churn,647,10751,865,110,6080
+2026-03-08,Mega Sales Q1,Meta (Instagram),Retargeting,5283,142641,2972,212,17229
+2026-03-09,Google Shopping Performance Max,Google Ads,E-Commerce Intent,6216,155400,6172,485,26796
+2026-03-09,Loyalty Email Blast,Email Sequence,Past 90-Day Buyers,881,14768,1281,70,6118
+2026-03-09,New Customer Welcome Series,Email Sequence,New Subscribers,932,5815,778,57,9293
+2026-03-09,Customer Reactivation Flow,Email Sequence,At-Risk Churn,797,14946,1724,128,8392
+2026-03-10,TikTok Influencer Collab,TikTok,Creative Video Briefs,2408,105952,3915,210,8899
+2026-03-10,New Customer Welcome Series,Email Sequence,New Subscribers,615,5744,560,77,3892
+2026-03-11,Easter Promo Flash,Meta (Facebook),Broad Interest,3124,103092,2452,112,13104
+2026-03-11,Loyalty Email Blast,Email Sequence,Past 90-Day Buyers,740,7878,711,69,5461
+2026-03-12,TikTok Influencer Collab,TikTok,Creative Video Briefs,1846,88608,1813,121,7874
+2026-03-12,Brand Awareness Jan,TikTok,Youth Demographic (18-24),5016,265848,8004,445,16513
+2026-03-12,New Customer Welcome Series,Email Sequence,New Subscribers,714,5341,840,54,8343
+2026-03-12,Mid-Year Clearance Sale,Meta (Instagram),Engaged Followers,5769,207684,4104,337,21268
+2026-03-13,New Customer Welcome Series,Email Sequence,New Subscribers,617,17219,1845,147,4324
+2026-03-13,Google Shopping Performance Max,Google Ads,E-Commerce Intent,6681,120258,6123,438,36348
+2026-03-13,Brand Awareness Jan,TikTok,Youth Demographic (18-24),4376,253808,11156,622,13351
+2026-03-13,Loyalty Email Blast,Email Sequence,Past 90-Day Buyers,405,7399,743,48,2801
+2026-03-14,Brand Awareness Jan,TikTok,Youth Demographic (18-24),5177,289912,12496,657,20086
+2026-03-14,Google Search High Intent,Google Ads,In-Market Shoppers,5147,128675,5086,325,23704
+2026-03-14,Mid-Year Clearance Sale,Meta (Instagram),Engaged Followers,4480,147840,4409,253,15000
+2026-03-14,Loyalty Email Blast,Email Sequence,Past 90-Day Buyers,772,12404,1029,85,5961
+2026-03-15,Brand Awareness Jan,TikTok,Youth Demographic (18-24),1836,89964,3843,203,5728
+2026-03-15,Google Shopping Performance Max,Google Ads,E-Commerce Intent,6396,121524,7744,673,35353
+2026-03-15,New Customer Welcome Series,Email Sequence,New Subscribers,651,16703,1448,156,4058
+2026-03-15,Loyalty Email Blast,Email Sequence,Past 90-Day Buyers,748,12199,1487,155,6121
+2026-03-16,New Customer Welcome Series,Email Sequence,New Subscribers,995,14795,1245,132,7967
+2026-03-16,Customer Reactivation Flow,Email Sequence,At-Risk Churn,637,6548,816,69,4785
+2026-03-16,TikTok Influencer Collab,TikTok,Creative Video Briefs,2731,122895,2708,153,11902
+2026-03-17,New Customer Welcome Series,Email Sequence,New Subscribers,617,14157,1559,189,6712
+2026-03-17,Google Search High Intent,Google Ads,In-Market Shoppers,6812,115804,6297,537,30003
+2026-03-17,Brand Awareness Jan,TikTok,Youth Demographic (18-24),4470,196680,4819,185,19717
+2026-03-18,Loyalty Email Blast,Email Sequence,Past 90-Day Buyers,458,6264,649,78,4143
+2026-03-18,Customer Reactivation Flow,Email Sequence,At-Risk Churn,852,17101,2577,137,6833
+2026-03-18,Google Search High Intent,Google Ads,In-Market Shoppers,3573,96471,3822,270,18694
+2026-03-19,Google Search High Intent,Google Ads,In-Market Shoppers,5484,120648,7732,747,29509
+2026-03-19,Mid-Year Clearance Sale,Meta (Instagram),Engaged Followers,5677,181664,5210,289,27347
+2026-03-19,Mega Sales Q1,Meta (Instagram),Retargeting,5842,181102,4592,401,30196
+2026-03-19,Loyalty Email Blast,Email Sequence,Past 90-Day Buyers,772,17606,1805,152,7075
+2026-03-20,Loyalty Email Blast,Email Sequence,Past 90-Day Buyers,556,5854,768,98,5185
+2026-03-20,Google Search High Intent,Google Ads,In-Market Shoppers,3340,60120,2618,276,13967
+2026-03-21,Google Search High Intent,Google Ads,In-Market Shoppers,6195,161070,10133,860,27822
+2026-03-21,New Customer Welcome Series,Email Sequence,New Subscribers,682,8862,982,56,5010
+2026-03-21,Brand Awareness Jan,TikTok,Youth Demographic (18-24),4110,156180,6400,358,17037
+2026-03-21,Mid-Year Clearance Sale,Meta (Instagram),Engaged Followers,3127,81302,1929,157,14359
+2026-03-22,Mid-Year Clearance Sale,Meta (Instagram),Engaged Followers,7040,176000,6356,260,25564
+2026-03-22,Customer Reactivation Flow,Email Sequence,At-Risk Churn,453,13991,2171,227,3868
+2026-03-23,Loyalty Email Blast,Email Sequence,Past 90-Day Buyers,348,8906,1011,122,3042
+2026-03-23,Easter Promo Flash,Meta (Facebook),Broad Interest,2908,116320,3482,142,12303
+2026-03-23,Brand Awareness Jan,TikTok,Youth Demographic (18-24),3481,198417,4680,220,13385
+2026-03-24,Customer Reactivation Flow,Email Sequence,At-Risk Churn,491,15885,2119,205,4008
+2026-03-24,New Customer Welcome Series,Email Sequence,New Subscribers,838,13914,1677,233,7814
+2026-03-25,Mid-Year Clearance Sale,Meta (Instagram),Engaged Followers,5058,166914,5499,318,16869
+2026-03-25,Mega Sales Q1,Meta (Instagram),Retargeting,3975,178875,3590,248,18735
+2026-03-25,New Customer Welcome Series,Email Sequence,New Subscribers,436,5726,619,49,4297
+2026-03-26,Mid-Year Clearance Sale,Meta (Instagram),Engaged Followers,3104,83808,2708,236,10162
+2026-03-26,Customer Reactivation Flow,Email Sequence,At-Risk Churn,506,5717,819,106,3994
+2026-03-26,Google Search High Intent,Google Ads,In-Market Shoppers,5040,136080,8800,814,20831
+2026-03-26,New Customer Welcome Series,Email Sequence,New Subscribers,962,8131,836,106,6047
+2026-03-27,TikTok Influencer Collab,TikTok,Creative Video Briefs,4514,216672,9151,546,19504
+2026-03-27,Easter Promo Flash,Meta (Facebook),Broad Interest,5167,180845,6777,439,21675
+2026-03-27,Brand Awareness Jan,TikTok,Youth Demographic (18-24),5753,247379,9902,585,16880
+2026-03-27,New Customer Welcome Series,Email Sequence,New Subscribers,916,7956,983,77,5936
+2026-03-28,Easter Promo Flash,Meta (Facebook),Broad Interest,7879,299402,6387,397,32258
+2026-03-28,Customer Reactivation Flow,Email Sequence,At-Risk Churn,661,15073,2409,179,7852
+2026-03-28,Mid-Year Clearance Sale,Meta (Instagram),Engaged Followers,2469,66663,2094,126,10434
+2026-03-28,Google Shopping Performance Max,Google Ads,E-Commerce Intent,3810,57150,2245,216,20776
+2026-03-29,Google Search High Intent,Google Ads,In-Market Shoppers,4433,115258,5286,618,15874
+2026-03-29,Brand Awareness Jan,TikTok,Youth Demographic (18-24),2756,154336,4822,216,9796
+2026-03-30,Customer Reactivation Flow,Email Sequence,At-Risk Churn,842,11012,1231,133,6313
+2026-03-30,Google Search High Intent,Google Ads,In-Market Shoppers,3429,51435,2935,263,15318
+2026-03-31,Brand Awareness Jan,TikTok,Youth Demographic (18-24),5155,211355,9491,393,22465
+2026-03-31,Easter Promo Flash,Meta (Facebook),Broad Interest,6023,186713,3818,315,24718
+2026-03-31,Google Shopping Performance Max,Google Ads,E-Commerce Intent,6146,104482,6197,731,36669
+2026-03-31,TikTok Influencer Collab,TikTok,Creative Video Briefs,4346,247722,5356,276,18754
+2026-04-01,Google Search High Intent,Google Ads,In-Market Shoppers,6667,146674,5667,408,25649
+2026-04-01,TikTok Influencer Collab,TikTok,Creative Video Briefs,5547,194145,5634,297,19939
+2026-04-02,Google Search High Intent,Google Ads,In-Market Shoppers,5761,172830,8774,931,32021
+2026-04-02,Brand Awareness Jan,TikTok,Youth Demographic (18-24),2104,82056,3635,202,7500
+2026-04-02,Google Shopping Performance Max,Google Ads,E-Commerce Intent,6738,175188,6806,746,32869
+2026-04-02,Customer Reactivation Flow,Email Sequence,At-Risk Churn,901,7981,1128,69,8124
+2026-04-03,Brand Awareness Jan,TikTok,Youth Demographic (18-24),2753,121132,2921,125,11028
+2026-04-03,Google Shopping Performance Max,Google Ads,E-Commerce Intent,5334,128016,7729,579,27137
+2026-04-04,Easter Promo Flash,Meta (Facebook),Broad Interest,6370,171990,4824,233,32380
+2026-04-04,Google Search High Intent,Google Ads,In-Market Shoppers,3763,75260,4121,425,18863
+2026-04-04,Customer Reactivation Flow,Email Sequence,At-Risk Churn,877,5674,828,43,5501
+2026-04-04,Mid-Year Clearance Sale,Meta (Instagram),Engaged Followers,7254,311922,7265,367,31513
+2026-04-05,Mega Sales Q1,Meta (Instagram),Retargeting,4474,178960,4097,329,17950
+2026-04-05,Mid-Year Clearance Sale,Meta (Instagram),Engaged Followers,5715,154305,4902,234,23038
+2026-04-05,Easter Promo Flash,Meta (Facebook),Broad Interest,5804,179924,4462,210,28572
+2026-04-05,TikTok Influencer Collab,TikTok,Creative Video Briefs,4115,238670,10668,467,14311
+2026-04-06,Google Shopping Performance Max,Google Ads,E-Commerce Intent,5114,112508,5512,419,21068
+2026-04-06,Customer Reactivation Flow,Email Sequence,At-Risk Churn,399,5829,601,50,3867
+2026-04-06,Brand Awareness Jan,TikTok,Youth Demographic (18-24),3533,141320,5700,383,14223
+2026-04-07,Google Search High Intent,Google Ads,In-Market Shoppers,6716,194764,9730,763,23895
+2026-04-07,Mid-Year Clearance Sale,Meta (Instagram),Engaged Followers,5221,214061,5810,302,22798
+2026-04-08,Mega Sales Q1,Meta (Instagram),Retargeting,6054,266376,9495,690,25070
+2026-04-08,Easter Promo Flash,Meta (Facebook),Broad Interest,6396,159900,5587,343,31755
+2026-04-09,TikTok Influencer Collab,TikTok,Creative Video Briefs,4781,172116,5896,222,17883
+2026-04-09,New Customer Welcome Series,Email Sequence,New Subscribers,375,11329,1363,161,2879
+2026-04-09,Customer Reactivation Flow,Email Sequence,At-Risk Churn,938,16147,2081,128,6172
+2026-04-09,Mega Sales Q1,Meta (Instagram),Retargeting,5057,176995,5160,300,17641
+2026-04-10,Google Shopping Performance Max,Google Ads,E-Commerce Intent,2818,53542,3020,326,13521
+2026-04-10,New Customer Welcome Series,Email Sequence,New Subscribers,452,14932,2261,141,5237
+2026-04-10,Mega Sales Q1,Meta (Instagram),Retargeting,4609,138270,3575,253,22515
+2026-04-10,Mid-Year Clearance Sale,Meta (Instagram),Engaged Followers,6863,240205,6760,442,28685
+2026-04-11,Easter Promo Flash,Meta (Facebook),Broad Interest,4713,131964,4961,343,22591
+2026-04-11,Mid-Year Clearance Sale,Meta (Instagram),Engaged Followers,7941,357345,6622,422,40770
+2026-04-11,Mega Sales Q1,Meta (Instagram),Retargeting,6738,289734,6533,278,28036
+2026-04-11,Google Search High Intent,Google Ads,In-Market Shoppers,6794,183438,7233,729,24315
+2026-04-12,Brand Awareness Jan,TikTok,Youth Demographic (18-24),4069,195312,4645,267,14231
+2026-04-12,Loyalty Email Blast,Email Sequence,Past 90-Day Buyers,926,12726,1906,221,5902
+2026-04-12,Mega Sales Q1,Meta (Instagram),Retargeting,3131,128371,2843,159,14166
+2026-04-12,Google Shopping Performance Max,Google Ads,E-Commerce Intent,6804,183708,8158,574,39329
+2026-04-13,Google Shopping Performance Max,Google Ads,E-Commerce Intent,6466,135786,8652,663,27456
+2026-04-13,TikTok Influencer Collab,TikTok,Creative Video Briefs,3938,232342,6325,242,15746
+2026-04-13,Easter Promo Flash,Meta (Facebook),Broad Interest,4597,183880,4592,398,22023
+2026-04-14,Easter Promo Flash,Meta (Facebook),Broad Interest,5232,188352,6986,560,19781
+2026-04-14,Brand Awareness Jan,TikTok,Youth Demographic (18-24),3856,219792,4830,323,15096
+2026-04-14,New Customer Welcome Series,Email Sequence,New Subscribers,790,8505,817,80,9162
+2026-04-15,Easter Promo Flash,Meta (Facebook),Broad Interest,6807,217824,4977,365,29011
+2026-04-15,Google Search High Intent,Google Ads,In-Market Shoppers,4407,70512,2679,213,20629
+2026-04-15,Brand Awareness Jan,TikTok,Youth Demographic (18-24),2626,91910,4054,280,8057
+2026-04-15,Customer Reactivation Flow,Email Sequence,At-Risk Churn,968,12793,1512,102,11406
+2026-04-16,Easter Promo Flash,Meta (Facebook),Broad Interest,7343,315749,7149,550,35985
+2026-04-16,Mega Sales Q1,Meta (Instagram),Retargeting,2305,69150,1822,149,11681
+2026-04-16,Brand Awareness Jan,TikTok,Youth Demographic (18-24),1797,84459,3352,125,7319
+2026-04-17,Mega Sales Q1,Meta (Instagram),Retargeting,6652,292688,5896,525,25072
+2026-04-17,Customer Reactivation Flow,Email Sequence,At-Risk Churn,956,13901,1695,220,6505
+2026-04-17,Easter Promo Flash,Meta (Facebook),Broad Interest,6130,239070,5607,451,23670
+2026-04-18,Mid-Year Clearance Sale,Meta (Instagram),Engaged Followers,4761,161874,4751,369,16906
+2026-04-18,Easter Promo Flash,Meta (Facebook),Broad Interest,7232,267584,9242,607,24396
+2026-04-18,Google Search High Intent,Google Ads,In-Market Shoppers,3281,65620,4229,374,19159
+2026-04-18,Mega Sales Q1,Meta (Instagram),Retargeting,2055,67815,1740,108,7673
+2026-04-19,Easter Promo Flash,Meta (Facebook),Broad Interest,7354,264744,8433,363,25271
+2026-04-19,Mega Sales Q1,Meta (Instagram),Retargeting,4513,135390,3534,230,22520
+2026-04-19,Customer Reactivation Flow,Email Sequence,At-Risk Churn,618,16309,1457,192,4801
+2026-04-20,Loyalty Email Blast,Email Sequence,Past 90-Day Buyers,456,12454,1741,181,3873
+2026-04-20,Customer Reactivation Flow,Email Sequence,At-Risk Churn,862,12714,1787,218,9442
+2026-04-20,Google Search High Intent,Google Ads,In-Market Shoppers,4527,76959,3906,358,19939
+2026-04-20,Google Shopping Performance Max,Google Ads,E-Commerce Intent,3419,54704,3274,373,13694
+2026-04-21,Google Search High Intent,Google Ads,In-Market Shoppers,6762,196098,7547,545,33525
+2026-04-21,Customer Reactivation Flow,Email Sequence,At-Risk Churn,393,13361,1545,84,2669
+2026-04-21,TikTok Influencer Collab,TikTok,Creative Video Briefs,4903,240247,8191,428,19335
+2026-04-21,New Customer Welcome Series,Email Sequence,New Subscribers,615,16850,1377,100,3701
+2026-04-22,Customer Reactivation Flow,Email Sequence,At-Risk Churn,346,11941,1284,71,4139
+2026-04-22,Brand Awareness Jan,TikTok,Youth Demographic (18-24),2065,103250,2146,99,8481
+2026-04-23,New Customer Welcome Series,Email Sequence,New Subscribers,686,11154,963,131,7715
+2026-04-23,TikTok Influencer Collab,TikTok,Creative Video Briefs,2589,142395,5910,205,11619
+2026-04-23,Customer Reactivation Flow,Email Sequence,At-Risk Churn,702,13664,1232,170,7728
+2026-04-23,Loyalty Email Blast,Email Sequence,Past 90-Day Buyers,323,9888,1157,132,2759
+2026-04-24,Loyalty Email Blast,Email Sequence,Past 90-Day Buyers,654,7541,769,103,6768
+2026-04-24,Customer Reactivation Flow,Email Sequence,At-Risk Churn,415,5527,800,70,4397
+2026-04-24,Mid-Year Clearance Sale,Meta (Instagram),Engaged Followers,2128,68096,1506,67,6952
+2026-04-25,Mega Sales Q1,Meta (Instagram),Retargeting,5595,179040,5155,400,26588
+2026-04-25,Loyalty Email Blast,Email Sequence,Past 90-Day Buyers,443,13255,2113,150,5093
+2026-04-25,Customer Reactivation Flow,Email Sequence,At-Risk Churn,889,10224,1290,154,9699
+2026-04-25,Google Shopping Performance Max,Google Ads,E-Commerce Intent,4440,106560,6530,777,21325
+2026-04-26,Easter Promo Flash,Meta (Facebook),Broad Interest,6560,282080,10040,859,29205
+2026-04-26,Customer Reactivation Flow,Email Sequence,At-Risk Churn,737,14107,1687,231,8585
+2026-04-26,Mega Sales Q1,Meta (Instagram),Retargeting,7499,277463,9354,523,30240
+2026-04-27,Easter Promo Flash,Meta (Facebook),Broad Interest,3506,147252,4045,333,13327
+2026-04-27,New Customer Welcome Series,Email Sequence,New Subscribers,447,12586,1927,193,5277
+2026-04-28,Google Shopping Performance Max,Google Ads,E-Commerce Intent,4588,96348,4326,280,21217
+2026-04-28,Google Search High Intent,Google Ads,In-Market Shoppers,5539,94163,4808,527,20100
+2026-04-28,New Customer Welcome Series,Email Sequence,New Subscribers,686,16037,2059,110,4415
+2026-04-28,Brand Awareness Jan,TikTok,Youth Demographic (18-24),3277,163850,4132,273,10864
+2026-04-29,Loyalty Email Blast,Email Sequence,Past 90-Day Buyers,420,17236,2757,256,3131
+2026-04-29,Customer Reactivation Flow,Email Sequence,At-Risk Churn,918,16530,1592,210,8548
+2026-04-30,New Customer Welcome Series,Email Sequence,New Subscribers,615,9285,1009,130,5409
+2026-04-30,Mid-Year Clearance Sale,Meta (Instagram),Engaged Followers,7918,316720,10525,589,28554
+2026-04-30,TikTok Influencer Collab,TikTok,Creative Video Briefs,4063,195024,4123,266,16496
+2026-05-01,Easter Promo Flash,Meta (Facebook),Broad Interest,6784,291712,9451,517,24370
+2026-05-01,Google Shopping Performance Max,Google Ads,E-Commerce Intent,4384,118368,6166,460,21379
+2026-05-02,TikTok Influencer Collab,TikTok,Creative Video Briefs,5518,270382,6544,404,17038
+2026-05-02,Easter Promo Flash,Meta (Facebook),Broad Interest,7900,331800,9212,790,33845
+2026-05-02,Mid-Year Clearance Sale,Meta (Instagram),Engaged Followers,7257,188682,5373,440,24301
+2026-05-02,Customer Reactivation Flow,Email Sequence,At-Risk Churn,984,5794,817,71,10878
+2026-05-03,Brand Awareness Jan,TikTok,Youth Demographic (18-24),1574,64534,2106,94,6060
+2026-05-03,Google Search High Intent,Google Ads,In-Market Shoppers,6458,193740,6872,631,29244
+2026-05-04,Google Shopping Performance Max,Google Ads,E-Commerce Intent,6888,165312,5870,638,35714
+2026-05-04,Easter Promo Flash,Meta (Facebook),Broad Interest,3468,97104,3530,233,12768
+2026-05-05,Google Shopping Performance Max,Google Ads,E-Commerce Intent,5751,97767,4516,380,28251
+2026-05-05,Easter Promo Flash,Meta (Facebook),Broad Interest,7711,246752,5921,481,25918
+2026-05-05,TikTok Influencer Collab,TikTok,Creative Video Briefs,1759,65083,1961,88,6348
+2026-05-05,Google Search High Intent,Google Ads,In-Market Shoppers,2577,51540,1931,213,13174
+2026-05-06,Customer Reactivation Flow,Email Sequence,At-Risk Churn,535,8463,1287,144,5029
+2026-05-06,Brand Awareness Jan,TikTok,Youth Demographic (18-24),3720,133920,5772,331,12189
+2026-05-06,Mega Sales Q1,Meta (Instagram),Retargeting,6448,277264,8640,423,31600
+2026-05-07,Loyalty Email Blast,Email Sequence,Past 90-Day Buyers,707,6260,650,65,6645
+2026-05-07,Google Search High Intent,Google Ads,In-Market Shoppers,5687,142175,6613,690,31143
+2026-05-08,Brand Awareness Jan,TikTok,Youth Demographic (18-24),2300,110400,2848,94,8806
+2026-05-08,Google Shopping Performance Max,Google Ads,E-Commerce Intent,5749,143725,5158,394,34387
+2026-05-08,TikTok Influencer Collab,TikTok,Creative Video Briefs,5519,231798,6697,453,19504
+2026-05-08,Mega Sales Q1,Meta (Instagram),Retargeting,7568,325424,10157,449,33580
+2026-05-09,Brand Awareness Jan,TikTok,Youth Demographic (18-24),3695,144105,4251,260,11315
+2026-05-09,Customer Reactivation Flow,Email Sequence,At-Risk Churn,698,10188,1109,64,8137
+2026-05-10,TikTok Influencer Collab,TikTok,Creative Video Briefs,2585,95645,2360,113,9675
+2026-05-10,Easter Promo Flash,Meta (Facebook),Broad Interest,5342,149576,2770,159,18088
+2026-05-10,Brand Awareness Jan,TikTok,Youth Demographic (18-24),4157,195379,3967,184,17145
+2026-05-11,Google Shopping Performance Max,Google Ads,E-Commerce Intent,5618,112360,4400,343,26588
+2026-05-11,Loyalty Email Blast,Email Sequence,Past 90-Day Buyers,364,7739,888,78,3241
+2026-05-11,Google Search High Intent,Google Ads,In-Market Shoppers,3130,81380,3462,258,15845
+2026-05-11,TikTok Influencer Collab,TikTok,Creative Video Briefs,3101,151949,3445,145,13684
+2026-05-12,Customer Reactivation Flow,Email Sequence,At-Risk Churn,750,10484,1199,148,7429
+2026-05-12,New Customer Welcome Series,Email Sequence,New Subscribers,908,7230,752,78,9235
+2026-05-12,TikTok Influencer Collab,TikTok,Creative Video Briefs,5424,244080,5965,273,18129
+2026-05-13,Mid-Year Clearance Sale,Meta (Instagram),Engaged Followers,4296,158952,4021,348,15463
+2026-05-13,Loyalty Email Blast,Email Sequence,Past 90-Day Buyers,858,7947,1069,106,10054
+2026-05-13,TikTok Influencer Collab,TikTok,Creative Video Briefs,5281,301017,7598,470,22249
+2026-05-13,Google Shopping Performance Max,Google Ads,E-Commerce Intent,3066,85848,4737,323,13052
+2026-05-14,Google Search High Intent,Google Ads,In-Market Shoppers,3105,90045,5827,517,13978
+2026-05-14,New Customer Welcome Series,Email Sequence,New Subscribers,818,16332,1853,98,9661
+2026-05-14,Google Shopping Performance Max,Google Ads,E-Commerce Intent,6898,117266,4489,336,35605
+2026-05-15,Customer Reactivation Flow,Email Sequence,At-Risk Churn,876,15568,2089,179,9212
+2026-05-15,Mega Sales Q1,Meta (Instagram),Retargeting,5526,154728,2817,149,23327
+2026-05-16,Google Shopping Performance Max,Google Ads,E-Commerce Intent,5704,165416,9622,917,27100
+2026-05-16,Loyalty Email Blast,Email Sequence,Past 90-Day Buyers,653,5402,640,49,7524
+2026-05-16,Mid-Year Clearance Sale,Meta (Instagram),Engaged Followers,2703,75684,2620,200,10532
+2026-05-16,Google Search High Intent,Google Ads,In-Market Shoppers,5310,153990,9012,822,23208
+2026-05-17,Mid-Year Clearance Sale,Meta (Instagram),Engaged Followers,4612,124524,2989,240,15819
+2026-05-17,Customer Reactivation Flow,Email Sequence,At-Risk Churn,651,15616,1385,168,7538
+2026-05-18,Loyalty Email Blast,Email Sequence,Past 90-Day Buyers,463,10422,1300,177,3422
+2026-05-18,Google Shopping Performance Max,Google Ads,E-Commerce Intent,5818,116360,4723,469,26116
+2026-05-18,Google Search High Intent,Google Ads,In-Market Shoppers,4116,119364,6298,524,21657
+2026-05-18,Easter Promo Flash,Meta (Facebook),Broad Interest,3685,121605,4018,323,12253
+2026-05-19,Google Shopping Performance Max,Google Ads,E-Commerce Intent,5496,137400,5621,375,28451
+2026-05-19,Google Search High Intent,Google Ads,In-Market Shoppers,6509,162725,8609,832,32333
+2026-05-20,TikTok Influencer Collab,TikTok,Creative Video Briefs,3936,212544,7386,420,13116
+2026-05-20,Mid-Year Clearance Sale,Meta (Instagram),Engaged Followers,3954,134436,2734,160,13770
+2026-05-20,Google Search High Intent,Google Ads,In-Market Shoppers,5682,159096,8415,795,25896
+2026-05-21,Google Shopping Performance Max,Google Ads,E-Commerce Intent,6511,156264,6126,483,30129
+2026-05-21,Google Search High Intent,Google Ads,In-Market Shoppers,2939,76414,4856,432,11720
+2026-05-21,Customer Reactivation Flow,Email Sequence,At-Risk Churn,693,14200,1710,161,7004
+2026-05-22,Mid-Year Clearance Sale,Meta (Instagram),Engaged Followers,2677,115111,2143,167,10130
+2026-05-22,Customer Reactivation Flow,Email Sequence,At-Risk Churn,581,8683,1068,69,5080
+2026-05-22,Google Search High Intent,Google Ads,In-Market Shoppers,6557,118026,6158,468,31852
+2026-05-23,Google Shopping Performance Max,Google Ads,E-Commerce Intent,6975,146475,9475,626,38886
+2026-05-23,Mega Sales Q1,Meta (Instagram),Retargeting,4027,136918,4860,202,15003
+2026-05-23,Mid-Year Clearance Sale,Meta (Instagram),Engaged Followers,2712,105768,3734,171,13082
+2026-05-24,Customer Reactivation Flow,Email Sequence,At-Risk Churn,924,15367,1755,185,9895
+2026-05-24,TikTok Influencer Collab,TikTok,Creative Video Briefs,3195,191700,4118,181,10472
+2026-05-25,Google Search High Intent,Google Ads,In-Market Shoppers,4690,84420,3298,346,21240
+2026-05-25,TikTok Influencer Collab,TikTok,Creative Video Briefs,1985,85355,3557,124,8480
+2026-05-25,Easter Promo Flash,Meta (Facebook),Broad Interest,4045,117305,3780,307,19104
+2026-05-25,Customer Reactivation Flow,Email Sequence,At-Risk Churn,992,11434,1362,138,7551
+2026-05-26,New Customer Welcome Series,Email Sequence,New Subscribers,948,17597,1538,148,7270
+2026-05-26,Mid-Year Clearance Sale,Meta (Instagram),Engaged Followers,5023,195897,7249,408,16098
+2026-05-26,Brand Awareness Jan,TikTok,Youth Demographic (18-24),2263,131254,5815,322,9018
+2026-05-27,Google Shopping Performance Max,Google Ads,E-Commerce Intent,4284,119952,7166,642,18451
+2026-05-27,New Customer Welcome Series,Email Sequence,New Subscribers,590,10533,1303,80,6557
+2026-05-28,Mega Sales Q1,Meta (Instagram),Retargeting,7129,278031,5095,440,25065
+2026-05-28,Customer Reactivation Flow,Email Sequence,At-Risk Churn,767,5011,798,70,9184
+2026-05-28,Brand Awareness Jan,TikTok,Youth Demographic (18-24),2580,141900,3908,253,11068
+2026-05-29,TikTok Influencer Collab,TikTok,Creative Video Briefs,2175,100050,3663,204,6281
+2026-05-29,Easter Promo Flash,Meta (Facebook),Broad Interest,7124,242216,7876,612,28912
+2026-05-30,Brand Awareness Jan,TikTok,Youth Demographic (18-24),3248,162400,3564,191,11962
+2026-05-30,Mega Sales Q1,Meta (Instagram),Retargeting,5645,141125,2563,146,19425
+2026-05-31,Google Search High Intent,Google Ads,In-Market Shoppers,4375,118125,4450,482,16441
+2026-05-31,Mid-Year Clearance Sale,Meta (Instagram),Engaged Followers,5011,170374,3533,277,23583
+2026-05-31,Brand Awareness Jan,TikTok,Youth Demographic (18-24),2590,142450,6385,228,9587
+2026-06-01,Customer Reactivation Flow,Email Sequence,At-Risk Churn,750,10753,1481,157,5181
+2026-06-01,Google Search High Intent,Google Ads,In-Market Shoppers,5872,170288,10353,675,22026
+2026-06-02,Customer Reactivation Flow,Email Sequence,At-Risk Churn,659,12035,1265,79,5049
+2026-06-02,New Customer Welcome Series,Email Sequence,New Subscribers,386,9065,1126,117,3723
+2026-06-03,Mega Sales Q1,Meta (Instagram),Retargeting,6971,285811,6222,370,31316
+2026-06-03,Easter Promo Flash,Meta (Facebook),Broad Interest,3960,158400,4073,212,17725
+2026-06-03,Loyalty Email Blast,Email Sequence,Past 90-Day Buyers,372,13655,2063,105,3037
+2026-06-03,Google Shopping Performance Max,Google Ads,E-Commerce Intent,5092,96748,4508,497,23179
+2026-06-04,Google Search High Intent,Google Ads,In-Market Shoppers,3053,45795,1963,122,11147
+2026-06-04,Mid-Year Clearance Sale,Meta (Instagram),Engaged Followers,5260,215660,5117,387,24901
+2026-06-04,Brand Awareness Jan,TikTok,Youth Demographic (18-24),4969,283233,8513,473,18454
+2026-06-04,Mega Sales Q1,Meta (Instagram),Retargeting,3250,107250,2109,92,16386
+2026-06-05,Google Shopping Performance Max,Google Ads,E-Commerce Intent,5700,96900,4293,370,33536
+2026-06-05,TikTok Influencer Collab,TikTok,Creative Video Briefs,3454,124344,3246,217,10352
+2026-06-06,Customer Reactivation Flow,Email Sequence,At-Risk Churn,973,17134,1611,82,6639
+2026-06-06,Mega Sales Q1,Meta (Instagram),Retargeting,2092,62760,1752,100,8858
+2026-06-06,Easter Promo Flash,Meta (Facebook),Broad Interest,7904,260832,5565,257,37640
+2026-06-06,TikTok Influencer Collab,TikTok,Creative Video Briefs,3701,214658,9050,550,10547
+2026-06-07,Easter Promo Flash,Meta (Facebook),Broad Interest,4154,178622,5457,353,17536
+2026-06-07,Google Shopping Performance Max,Google Ads,E-Commerce Intent,2954,88620,5386,377,11500
+2026-06-07,Brand Awareness Jan,TikTok,Youth Demographic (18-24),2342,124126,4574,158,9506
+2026-06-08,Mega Sales Q1,Meta (Instagram),Retargeting,4003,104078,2855,168,14011
+2026-06-08,Customer Reactivation Flow,Email Sequence,At-Risk Churn,336,14058,2027,231,3337
+2026-06-09,TikTok Influencer Collab,TikTok,Creative Video Briefs,4909,284722,7971,502,18514
+2026-06-09,Loyalty Email Blast,Email Sequence,Past 90-Day Buyers,422,13225,1770,96,3097
+2026-06-10,Mega Sales Q1,Meta (Instagram),Retargeting,4312,146608,3598,243,13867
+2026-06-10,New Customer Welcome Series,Email Sequence,New Subscribers,505,9777,1223,94,4916
+2026-06-10,Brand Awareness Jan,TikTok,Youth Demographic (18-24),5300,243800,8482,421,21801
+2026-06-10,Loyalty Email Blast,Email Sequence,Past 90-Day Buyers,500,17000,2584,306,3735
+2026-06-11,New Customer Welcome Series,Email Sequence,New Subscribers,538,13872,1494,187,6059
+2026-06-11,Mega Sales Q1,Meta (Instagram),Retargeting,4744,118600,3934,231,22183
+2026-06-12,Brand Awareness Jan,TikTok,Youth Demographic (18-24),4939,246950,10873,749,15024
+2026-06-12,Loyalty Email Blast,Email Sequence,Past 90-Day Buyers,586,6524,544,38,6488
+2026-06-12,Google Shopping Performance Max,Google Ads,E-Commerce Intent,5883,152958,7457,782,29132
+2026-06-13,Google Search High Intent,Google Ads,In-Market Shoppers,3010,84280,4624,313,12729
+2026-06-13,New Customer Welcome Series,Email Sequence,New Subscribers,622,11438,1556,180,4918
+2026-06-13,Brand Awareness Jan,TikTok,Youth Demographic (18-24),3727,156534,3422,130,15377
+2026-06-13,Easter Promo Flash,Meta (Facebook),Broad Interest,6789,190092,4012,193,28052
+2026-06-14,Brand Awareness Jan,TikTok,Youth Demographic (18-24),3200,156800,4344,176,9612
+2026-06-14,Google Shopping Performance Max,Google Ads,E-Commerce Intent,3791,90984,5440,553,13650
+2026-06-14,TikTok Influencer Collab,TikTok,Creative Video Briefs,4185,163215,3636,145,14248
+2026-06-15,Mega Sales Q1,Meta (Instagram),Retargeting,3424,85600,3170,262,14763
+2026-06-15,Easter Promo Flash,Meta (Facebook),Broad Interest,6506,208192,4141,186,31148
+2026-06-15,Google Shopping Performance Max,Google Ads,E-Commerce Intent,3494,52410,1931,206,14170
+2026-06-15,New Customer Welcome Series,Email Sequence,New Subscribers,502,11563,1269,135,4953
+2026-06-16,Customer Reactivation Flow,Email Sequence,At-Risk Churn,366,8239,1253,112,2478
+2026-06-16,Easter Promo Flash,Meta (Facebook),Broad Interest,4716,132048,2489,156,16675
+2026-06-16,Brand Awareness Jan,TikTok,Youth Demographic (18-24),5048,292784,8746,272,19997
+2026-06-16,Mega Sales Q1,Meta (Instagram),Retargeting,3415,122940,2740,135,12839
+2026-06-17,Mega Sales Q1,Meta (Instagram),Retargeting,7302,248268,6946,584,30362
+2026-06-17,Loyalty Email Blast,Email Sequence,Past 90-Day Buyers,389,9583,1060,92,3833
+2026-06-18,Loyalty Email Blast,Email Sequence,Past 90-Day Buyers,667,12859,1588,148,7654
+2026-06-18,Google Shopping Performance Max,Google Ads,E-Commerce Intent,6615,165375,7714,546,28425
+2026-06-18,Mega Sales Q1,Meta (Instagram),Retargeting,3794,94850,3406,268,12585
+2026-06-18,Customer Reactivation Flow,Email Sequence,At-Risk Churn,783,13674,1484,152,5791
+2026-06-19,Brand Awareness Jan,TikTok,Youth Demographic (18-24),3475,149425,4982,307,14084
+2026-06-19,Loyalty Email Blast,Email Sequence,Past 90-Day Buyers,524,14432,2131,259,4259
+2026-06-20,Google Search High Intent,Google Ads,In-Market Shoppers,5105,132730,8284,511,26808
+2026-06-20,Loyalty Email Blast,Email Sequence,Past 90-Day Buyers,881,14234,1300,175,9708
+2026-06-21,Google Shopping Performance Max,Google Ads,E-Commerce Intent,6517,104272,3931,290,26374
+2026-06-21,Easter Promo Flash,Meta (Facebook),Broad Interest,6312,252480,4548,390,22741
+2026-06-21,Google Search High Intent,Google Ads,In-Market Shoppers,3568,89200,5040,580,20019
+2026-06-22,Mega Sales Q1,Meta (Instagram),Retargeting,6805,197345,6608,543,33489
+2026-06-22,Customer Reactivation Flow,Email Sequence,At-Risk Churn,374,11120,1516,166,3559
+2026-06-22,Google Search High Intent,Google Ads,In-Market Shoppers,5257,126168,5636,668,28024
+2026-06-23,Mid-Year Clearance Sale,Meta (Instagram),Engaged Followers,7793,327306,10431,901,37203
+2026-06-23,TikTok Influencer Collab,TikTok,Creative Video Briefs,3328,186368,6471,239,11054
+2026-06-23,Google Search High Intent,Google Ads,In-Market Shoppers,4912,93328,3764,226,25812
+2026-06-24,New Customer Welcome Series,Email Sequence,New Subscribers,625,15016,1466,147,7262
+2026-06-24,Mega Sales Q1,Meta (Instagram),Retargeting,3152,110320,3630,188,16279
+2026-06-24,Google Search High Intent,Google Ads,In-Market Shoppers,3875,65875,3929,393,20627
+2026-06-24,Easter Promo Flash,Meta (Facebook),Broad Interest,4750,185250,3376,170,21785
+2026-06-25,Easter Promo Flash,Meta (Facebook),Broad Interest,2394,88578,2370,144,8457
+2026-06-25,Brand Awareness Jan,TikTok,Youth Demographic (18-24),4891,244550,10281,452,16815
+2026-06-25,Mega Sales Q1,Meta (Instagram),Retargeting,5927,254861,7905,587,20894
+2026-06-26,Mega Sales Q1,Meta (Instagram),Retargeting,2164,75740,1758,79,8404
+2026-06-26,Easter Promo Flash,Meta (Facebook),Broad Interest,5075,152250,4969,334,25355
+2026-06-27,TikTok Influencer Collab,TikTok,Creative Video Briefs,1753,84144,3665,134,7559
+2026-06-27,Mid-Year Clearance Sale,Meta (Instagram),Engaged Followers,3286,85436,1710,85,11763
+2026-06-28,Google Shopping Performance Max,Google Ads,E-Commerce Intent,4806,115344,4859,306,23690
+2026-06-28,Customer Reactivation Flow,Email Sequence,At-Risk Churn,802,7516,634,31,5233
+2026-06-28,Easter Promo Flash,Meta (Facebook),Broad Interest,7423,334035,10022,500,24135
+2026-06-28,TikTok Influencer Collab,TikTok,Creative Video Briefs,2899,159445,4352,144,12275
+2026-06-29,New Customer Welcome Series,Email Sequence,New Subscribers,976,9341,815,80,6938
+2026-06-29,Mid-Year Clearance Sale,Meta (Instagram),Engaged Followers,5124,184464,4008,169,20903
+2026-06-29,Google Shopping Performance Max,Google Ads,E-Commerce Intent,4657,102454,6158,577,18059
